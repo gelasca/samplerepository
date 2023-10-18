@@ -1,3 +1,3 @@
-# hello repository :smile:
+# Halo :mexico:
 ***
-That repository has a unique objective of testing git while I learn.
+I'm the mexican branch
